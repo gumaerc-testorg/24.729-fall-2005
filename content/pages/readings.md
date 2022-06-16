@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section features the two books used most often in this course and
+  a list of readings by session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the final paper required for the
+  course and an example of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -17,4 +19,4 @@ Your final paper must be a substantial journal-style discussion of an issue rela
 Exemplary Student Paper
 -----------------------
 
-"Categorization and Vagueness" ([PDF]({{< baseurl >}}/resources/stephenson_vague)) (Courtesy of Tamina Stephenson. Used with permission.)
+"Categorization and Vagueness" ({{% resource_link 20586081-bdef-77ea-e2e8-ea0441dc7afa "PDF" %}}) (Courtesy of Tamina Stephenson. Used with permission.)
