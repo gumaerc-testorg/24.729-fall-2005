@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section features the two books used most often in this course and
+  a list of readings by session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e0e7aedc-148e-66ea-5de4-72b52539595f
 ---
