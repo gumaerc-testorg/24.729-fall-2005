@@ -28,7 +28,7 @@ Texts
 
 Much of our focus will be on the following two texts:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/vagueness) Keefe, Rosanna, and Peter Smith, eds. [_Vagueness: A Reader_](https://mitpress.mit.edu/books/vagueness). Cambridge, MA: MIT Press, 1996. ISBN: 0262112256.
+{{% resource_link "728cfc69-6f2b-429b-b76f-d1fb9d2b0e39" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Keefe, Rosanna, and Peter Smith, eds. {{% resource_link "728cfc69-6f2b-429b-b76f-d1fb9d2b0e39" "_Vagueness: A Reader_" %}}. Cambridge, MA: MIT Press, 1996. ISBN: 0262112256.
 
 Williamson, Timothy. _Vagueness_. New York, NY: Routledge, 1994. ISBN: 0415033314.
 
@@ -46,7 +46,7 @@ Additional Reading
 
 There is an enormous literature on vagueness. Come see me if you'd like to talk about further readings - or check out the following Web site:
 
-[Arche](https://www.st-andrews.ac.uk/arche/)
+{{% resource_link "239d80e7-6253-4c6e-bfcb-97f62a73f4d2" "Arche" %}}
 
 Calendar
 --------

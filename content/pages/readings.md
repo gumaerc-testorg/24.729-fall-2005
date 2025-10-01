@@ -14,7 +14,7 @@ This section features the two books used most often in this course and a list of
 Required Texts
 --------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/vagueness-1) Keefe, Rosanna, and Peter Smith, eds. [_Vagueness: A Reader_](https://mitpress.mit.edu/books/vagueness-1). Cambridge, MA: MIT Press, 1997. ISBN: 0262112256.
+{{% resource_link "6acd9d86-e3de-4d4b-a236-25cc6693557b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Keefe, Rosanna, and Peter Smith, eds. {{% resource_link "6acd9d86-e3de-4d4b-a236-25cc6693557b" "_Vagueness: A Reader_" %}}. Cambridge, MA: MIT Press, 1997. ISBN: 0262112256.
 
 Williamson, Timothy. _Vagueness_. New York, NY: Routledge, 1994. ISBN: 0415033314.
 
@@ -213,7 +213,7 @@ Eklund Extravangza
 {{< tdopen >}}
 
 
-Guest Lecturer: [Matti Eklund](https://katalog.uu.se/profile/?id=N13-1343) (Cornell University)
+Guest Lecturer: {{% resource_link "337fcf14-7436-43b5-93c6-9b76abddc1e5" "Matti Eklund" %}} (Cornell University)
 
 \* Dummett Michael. "Wang's Paradox." In _Vaugeness: A Reader_. (With special emphasis on Dummett's positive view, discussed toward the end.)
 
